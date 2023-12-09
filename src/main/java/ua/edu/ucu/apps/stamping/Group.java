@@ -36,14 +36,14 @@ public class Group<T> extends Task<T> {
         }
     }
 
-	public void stamp() {
-		for (Task<T> task: tasks) {
-			if(task instanceof Signature) {
-				((Signature<T>) task).setHeader("groupId", groupUuid);
-			}
-			else {
-				((Group<T>) task).stamp();
-			}
-		}
-	}
+    public void stamp() {
+        for (Task<T> task: tasks) {
+            if (task instanceof Signature) {
+                ((Signature<T>) task).setHeader("groupId", groupUuid);
+            }
+            else {
+                ((Group<T>) task).stamp();
+            }
+        }
+    }
 }

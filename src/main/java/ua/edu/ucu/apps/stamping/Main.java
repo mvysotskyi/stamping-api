@@ -11,6 +11,6 @@ public class Main {
             .addTask(new Signature<>(x -> System.out.println(x * x * x)));
         group.apply(10);
 
-		group.stamp();
+        group.stamp();
     }
 }

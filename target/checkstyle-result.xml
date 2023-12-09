@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="9.3">
-<file name="/home/mykola/labs_oop/stamping-api/src/main/java/ua/edu/ucu/apps/atm/Tray.java">
+<file name="/home/mykola/Documents/stamping-api-main/src/main/java/ua/edu/ucu/apps/stamping/Group.java">
+</file>
+<file name="/home/mykola/Documents/stamping-api-main/src/main/java/ua/edu/ucu/apps/stamping/Main.java">
 </file>
 </checkstyle>

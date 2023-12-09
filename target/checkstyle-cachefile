@@ -1,12 +1,11 @@
-#Wed Dec 13 02:30:03 EET 2023
-configuration*?=471BEB815F0A3291C7755C9C9C43997B4FE0D85F
-/home/mykola/labs_oop/stamping-api/src/main/java/ua/edu/ucu/apps/stamping/Signature.java=1702427143513
-/home/mykola/labs_oop/stamping-api/src/main/java/ua/edu/ucu/apps/atm/Tray20.java=1702427108796
-/home/mykola/labs_oop/stamping-api/src/main/java/ua/edu/ucu/apps/atm/Tray.java=1702427400079
-/home/mykola/labs_oop/stamping-api/src/main/java/ua/edu/ucu/apps/stamping/Task.java=1702426657143
-/home/mykola/labs_oop/stamping-api/src/main/java/ua/edu/ucu/apps/atm/Tray5.java=1702427101880
-/home/mykola/labs_oop/stamping-api/src/main/java/ua/edu/ucu/apps/atm/ATM.java=1702427317025
-/home/mykola/labs_oop/stamping-api/src/main/java/ua/edu/ucu/apps/stamping/Main.java=1702426865509
-/home/mykola/labs_oop/stamping-api/src/main/java/ua/edu/ucu/apps/Main.java=1702424226249
-/home/mykola/labs_oop/stamping-api/src/main/java/ua/edu/ucu/apps/atm/Tray50.java=1702427113444
-/home/mykola/labs_oop/stamping-api/src/main/java/ua/edu/ucu/apps/stamping/Group.java=1702427287025
+#Sat Dec 23 20:30:20 EET 2023
+configuration*?=51E37E413D2ADA110B35EF663400B9FDE1E68978
+/home/mykola/Documents/stamping-api-main/src/main/java/ua/edu/ucu/apps/atm/Tray.java=1702427610000
+/home/mykola/Documents/stamping-api-main/src/main/java/ua/edu/ucu/apps/atm/Tray50.java=1702427610000
+/home/mykola/Documents/stamping-api-main/src/main/java/ua/edu/ucu/apps/stamping/Task.java=1702427610000
+/home/mykola/Documents/stamping-api-main/src/main/java/ua/edu/ucu/apps/stamping/Signature.java=1702427610000
+/home/mykola/Documents/stamping-api-main/src/main/java/ua/edu/ucu/apps/stamping/Main.java=1703356199684
+/home/mykola/Documents/stamping-api-main/src/main/java/ua/edu/ucu/apps/atm/ATM.java=1702427610000
+/home/mykola/Documents/stamping-api-main/src/main/java/ua/edu/ucu/apps/atm/Tray20.java=1702427610000
+/home/mykola/Documents/stamping-api-main/src/main/java/ua/edu/ucu/apps/atm/Tray5.java=1702427610000
+/home/mykola/Documents/stamping-api-main/src/main/java/ua/edu/ucu/apps/stamping/Group.java=1703356211280
